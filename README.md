@@ -15,6 +15,7 @@ Use [SpriteSomething](https://github.com/Artheau/SpriteSomething) to inject the 
 
 *Following steps is for SpriteSomething v1.46, steps might differ in other versions*
 
+* Download the spritesheet from this repository ([Direct link](https://github.com/PaddyCo/captain-novolin-sm/raw/main/captain-novolin.png), Right click > Save link as...)
 * [Download the latest SpriteSomething release for your platform](https://github.com/Artheau/SpriteSomething/releases/)
 * After launching SpriteSomething, set Super Metroid/Samus as the current bundle (in the top menu: Bundle > Super Metroid > Samus) 
 * File > Open, select `captain-novolin.png`
